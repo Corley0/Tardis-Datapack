@@ -1,0 +1,1 @@
+tellraw @s [{"color":"green","text":"Corley's Tardis Datapack Reloaded!"},{"color":"white","text":"\n\n"},{"click_event":{"action":"run_command","command":"/function cg_tardis:config"},"color":"white","hover_event":{"action":"show_text","value":[{"text":"File Path:\n/datapacks/cg_tardis/data/cg_tardis/function/config.mcfunction"}]},"text":"Click To Reload Config File"}]

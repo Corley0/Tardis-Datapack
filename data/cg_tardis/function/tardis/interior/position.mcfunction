@@ -1,0 +1,1 @@
+$execute in cg_tardis:cg_tardis_interior positioned $(maxTardisID) 0 0 align xyz positioned ~0.5 ~ ~0.5 run function cg_tardis:tardis/interior/summon
