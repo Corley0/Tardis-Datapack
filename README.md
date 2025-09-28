@@ -9,6 +9,7 @@ There is no way to create the TARDIS in survival at this time
 
 During World Creation:\
 3) Add the datapack to the datapacks folder via the menu\
+**Ensure that you have enabled the datapack by moving it from the 'Available' column to the 'Selected' column**
 4) Join the world
 
 After World Creation:\
