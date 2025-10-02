@@ -34,3 +34,11 @@ Punch buttons to decrease the value and click the buttons to increase it
 # Notes
 Dimension control is currently not implimented\
 The monitor does not yet store the coordinates of the target cords
+
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/72cde5d20a0ffb5d164791a842a95fc0d7bdf294_2025-10-02_20-26-21.mp4
+
+[![Tutorial]([https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg](https://hc-cdn.hel1.your-objectstorage.com/s/v3/72cde5d20a0ffb5d164791a842a95fc0d7bdf294_2025-10-02_20-26-21.mp4))]([https://www.youtube.com/embed/<VIDEO_ID>](https://hc-cdn.hel1.your-objectstorage.com/s/v3/72cde5d20a0ffb5d164791a842a95fc0d7bdf294_2025-10-02_20-26-21.mp4))
+
+[<img src="[https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg](https://hc-cdn.hel1.your-objectstorage.com/s/v3/72cde5d20a0ffb5d164791a842a95fc0d7bdf294_2025-10-02_20-26-21.mp4)" width="600" height="300"
+/>]([https://www.youtube.com/embed/<VIDEO_ID>](https://hc-cdn.hel1.your-objectstorage.com/s/v3/72cde5d20a0ffb5d164791a842a95fc0d7bdf294_2025-10-02_20-26-21.mp4))
